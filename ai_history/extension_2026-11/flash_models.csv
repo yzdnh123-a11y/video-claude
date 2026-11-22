@@ -1,0 +1,7 @@
+date,tier,school,cn_label,original,weight,span_years,category,segment,source_url,confidence,wording_note
+2026-10-26,minor,learn,纯音频语音,Block Dessa — fully voice-trained full-duplex end-to-end speech model,6,,model,now,https://www.sohu.com/a/1092780189_100106801,medium,Block 内部实验室；纯音频从零训练、不用文本；可在 M4 Max 笔记本本地运行；未公开权重/API/论文，仅小范围早期访问，效果全部来自官方演示，无第三方验证
+2026-11-13,minor,learn,无分词器,H-Net — dynamic-chunking tokenizer-free language model (Mamba lineage),6,,paper,now,https://www.163.com/v/video/VVAL8N8VL.html,medium,"首个无分词器"为媒体报道口径；ICLR 2026 投稿工作；未核参数与第三方评测；只作方法侧小条
+2026-11-17,minor,mixed,双发旗舰,GPT-6.2 Astra and GPT-6.2 Sol,9,,model,now,https://www.36kr.com/p/4074370835977092,high,美国时间 11-17 发布（北京 11-18 凌晨）；先向 ChatGPT Work/Codex 付费用户开放，未进普通 ChatGPT 对话；约 5% 成本为指定评测配置下的任务平均，不代表所有真实场景
+2026-11-17,minor,mixed,自我改进,GPT-6.2 Astra — first released OpenAI model rated High on AI self-improvement,8,,model,now,https://www.36kr.com/p/4074370835977092,medium,OpenAI 自家 Preparedness 框架评级，非第三方统一标准；不等于已实现递归自我改进；同批网络安全 Critical、生物化学 High
+2026-11-19,minor,mixed,短剧换人,Chinese short-drama studio cuts ~90% of live-action shooting with AI,5,,product,now,https://www.163.com/v/video/VYB6PRVUJ.html,low,单一公司个案、自媒体口径；未注明样本与统计方式；只作应用侧小条，不推广为行业结论
+2026-11-22,minor,mixed,FSD 推送,Tesla FSD V15 rollout — 25x improvement on safety-critical scenarios (company claim),6,,robot,now,https://www.163.com/dy/article/LCBSSL510512B07B.html,medium,厂商口径；"25 倍"指安全关键场景处理能力，不是事故率；中国市场仅"准备中"；不写成已获监管批准
